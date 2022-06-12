@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">psycomfy</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="information_title">title</string>
+    <string name="upload_success">sukses</string>
+    <string name="btn_continue">continue</string>
+    <string name="upload_failed">failed</string>
+</resources>
